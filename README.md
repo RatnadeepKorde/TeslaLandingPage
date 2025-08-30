@@ -4,7 +4,8 @@ A sleek and modern landing page concept for the **Tesla Roadster**, built with *
 This project replicates a promotional product page highlighting the Roadster's specifications, reservation CTA, and navigation menu.  
 
   
-<img width="1366" height="794" alt="Image" src="https://github.com/user-attachments/assets/5c479f05-e528-4831-b370-620abc920c4d" />
+<img width="1536" height="1024" alt="ChatGPT Image Aug 30, 2025, 09_54_13 PM" src="https://github.com/user-attachments/assets/cd273c2f-819e-4ada-8be0-0d61cd1b8486" />
+
 
 ---
 
