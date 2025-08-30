@@ -1,4 +1,4 @@
-# 🚗 Tesla Roadster Landing Page  
+# 🚗 Tesla Landing Page  
 
 A sleek and modern landing page concept for the **Tesla Roadster**, built with **HTML, CSS, and JavaScript**.  
 This project replicates a promotional product page highlighting the Roadster's specifications, reservation CTA, and navigation menu.  
